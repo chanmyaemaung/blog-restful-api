@@ -22,7 +22,7 @@ yarn install or npm install
 yarn start or npm run start
 ```
 
-#### This project for free. (You can use as your own project! :boom:)
+#### This project is 100% free for everyone. (You can use as your own project! :boom:)
 
 > :loud_sound: If you like this small project, then leave a start on this repo or you can follow along with my github for more up coming projects.
 
